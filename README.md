@@ -1,4 +1,4 @@
-# 🏫 Edu Healthcare - Hệ thống y tế học đường thông minh
+# 🏫 EduHealth - Hệ thống y tế học đường thông minh
 
 ## 📌 Giới thiệu
 EduHealth là hệ thống phần mềm hỗ trợ quản lý toàn diện các hoạt động y tế trong trường học. Hệ thống giúp phụ huynh, nhân viên y tế và nhà trường phối hợp hiệu quả trong việc chăm sóc sức khỏe học sinh – từ khai báo thông tin y tế, xử lý các tình huống khẩn cấp, đến quản lý tiêm chủng và kiểm tra sức khỏe định kỳ.
