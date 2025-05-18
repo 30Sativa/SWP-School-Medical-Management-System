@@ -60,3 +60,5 @@ EduHealth là hệ thống phần mềm hỗ trợ quản lý toàn diện các 
 - **Git** – Quản lý phiên bản
 
 ## 🔐 Bảo mật & Quyền riêng tư
+
+## Yêu cầu phi chức năng
