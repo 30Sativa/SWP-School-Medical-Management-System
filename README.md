@@ -8,7 +8,7 @@ EduHealth là hệ thống phần mềm hỗ trợ quản lý toàn diện các 
 1. **Student** - Học sinh, người thụ hưởng dịch vụ y tế học đường
 2. **Parent** - Phụ huynh, có thể khai báo sức khỏe và theo dõi tình trạng của con
 3. **School Nurse** - Nhân viên y tế, xử lý sự kiện y tế và theo dõi hồ sơ sức khỏe
-4. **Manager** -  Quản lý nhà trường, giám sát hoạt động y tế học đường
+4. **Admin** -  Quản lý nhà trường, giám sát hoạt động y tế học đường
 
 ## Chức năng chính
 
