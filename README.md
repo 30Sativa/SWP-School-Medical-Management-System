@@ -20,7 +20,7 @@ EduHealth là hệ thống phần mềm hỗ trợ quản lý toàn diện các 
 - Gửi thuốc cho y tế trường kèm hướng dẫn sử dụng
 
 3. **Ghi nhận & xử lý sự kiện y tế tại trường**
-- Ghi nhận các sự kiện: sốt, té ngã, tai nạn, dịch bệnh,..
+- Ghi nhận các sự kiện: sốt, té ngã, tai nạn, dịch bệnh,...
 - Quản lý sơ cứu, điều trị và theo dõi sau can thiệp
 
 4. **Quản lý thuốc & vật tư y tế**
